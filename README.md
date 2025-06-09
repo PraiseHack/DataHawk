@@ -11,7 +11,7 @@ I'm a Data Engineer and Analyst based Nigeria, passionate about transforming dat
 ## Featured Projects
 - [sql_jobs_analysis](https://github.com/PraiseHack/sql_jobs_analysis) - Analyzes job market trends with SQL.
 - [expense_project](https://github.com/PraiseHack/expense_project) - Tracks expenses with real-time insights in Python.
-- [CAPSTONE](https://github.com/PraiseHack/alt-cap) - Data engineering capstone project at Altschool Africa.
+- [CAPSTONE](https://github.com/PraiseHack/alt_cap) - Data engineering capstone project at Altschool Africa.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraiseHack&show_icons=true)
